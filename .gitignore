@@ -1,0 +1,33 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+virtualenv/
+.buildozer/
+
+# Логи и временные файлы
+logs/
+*.log
+*.sqlite3
+
+# Загрузки и БД
+/uploads/
+/chroma_db/
+
+# Сторонние библиотеки
+/lib/
+/include/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
