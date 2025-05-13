@@ -46,7 +46,7 @@ document_rag_api/
 
 ## Как развернуть через Docker
 
-* git clone https://github.com/goralex02/document-rag-api.git 
+* git clone https://github.com/goralex02/document_rag_api.git 
 * cd document_rag_api
 * docker-compose up --build
 * Приложение будет доступно по адресу: http://localhost:8000/docs
